@@ -1,11 +1,22 @@
 ---
 layout: page
 title: BA Dinners
-subtitle: 
+subtitle:
 permalink: /ba-dinners/
 ---
 
-**[--> Download the menus for Michaelmas 2016 formals here. <--](http://trin-hosts.trin.cam.ac.uk/ba_society/ba_docs/2016-2017/ba_menus_mich_2016.pdf)**
+<div class="row">
+	<div class="6u 12u$(medium)">
+		<ul class="actions fit">
+			<li><a href="http://trin-hosts.trin.cam.ac.uk/ba_society/ba_docs/2016-2017/ba_menus_mich_2016.pdf" target="_blank" class="button special fit">Download Michaelmas 2016 menus</a></li>
+		</ul>
+	</div>
+	<div class="6u 12u$(medium)">
+		<ul class="actions fit">
+			<li><a href="http://shib.upay.co.uk/upaychilli?entityID=https%3a%2f%2fshib.raven.cam.ac.uk%2fshibboleth" target="_blank" class="button special fit">Book tickets</a></li>
+		</ul>
+	</div>
+</div>
 
 Our weekly BA Dinners are an excellent way to relax after a long week in the lab or library, with some good food and good company.
 We will be serving pre-drinks from 7:15 pm, with dinner starting at 8 pm except the BA Feast, for which pre-drinks will be at 7pm and dinner at 7:30pm.
