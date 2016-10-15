@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BA Dinners
-subtitle: foobar
+subtitle: 
 permalink: /ba-dinners/
 ---
 
