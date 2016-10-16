@@ -52,6 +52,7 @@ Usage of the BA rooms must be in accordance with rules laid out in the White Boo
 
 
 ## Booking
+
 ### Booking the BA Kitchen
 It is possible to book the kitchen for periods of no longer than 4 hours if you'd like to hold dinner parties. This reservation is just for the kitchen, and not the entire common space; there is a pull-out screen to separate the two spaces which you should feel free to use. Please be courteous with your reservations and recognize that the BA Kitchen is a common resource for all Trinity graduates. Kitchen availabilities can be viewed [here](http://www.google.com/calendar/embed?src=ba.kitchen%40googlemail.com&ctz=Europe/London).
 
