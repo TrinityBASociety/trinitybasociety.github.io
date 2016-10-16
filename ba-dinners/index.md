@@ -3,6 +3,7 @@ layout: page
 title: BA Dinners
 subtitle:
 permalink: /ba-dinners/
+order: 3
 ---
 
 <div class="row">

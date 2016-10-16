@@ -3,6 +3,7 @@ layout: page
 title: Welfare
 subtitle:
 permalink: /welfare/
+order: 6
 ---
 
 <div class="row">

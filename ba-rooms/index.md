@@ -3,6 +3,7 @@ layout: page
 title: BA Rooms
 subtitle:
 permalink: /ba-rooms/
+order: 4
 ---
 
 The BA Rooms are situated on the first floor of I Staircase, Great Court. The Junior Common Room, which graduates are also entitled to use, is just next door. You will need your University card to access both rooms.
