@@ -35,8 +35,3 @@ We are very happy with you bringing guests to formal.
 However, keep in mind that as the host, you are responsibile for your guests and their behaviour.
 It is also your responsibility to make sure that, if they are under 18, they do not drink alcohol.
 Please note that children younger than 8 years may not attend formal dinners according to College regulations.
-
-## Booking Tickets
-**[Access the online booking system](http://shib.upay.co.uk/upaychilli?entityID=https%3a%2f%2fshib.raven.cam.ac.uk%2fshibboleth)**
-
-(If you encounter any problems please [contact the computing officer](mailto:ba.computing@trin.cam.ac.uk)).
