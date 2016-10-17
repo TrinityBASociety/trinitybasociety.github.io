@@ -6,7 +6,7 @@ permalink: /about-us/
 order: 1
 ---
 
-Trinity College BA Society is a College—funded Society founded to further the interests of graduate and fourth—year undergraduate Members of College. The Committee organises events throughout the year, as well as representing the views of its Members to the College authorities. With the largest number of Junior Members of any Oxbridge College, Trinity has a wide breadth of nationalities, cultures and academic specialities.
+The BA Society is a College-funded Society founded to further the interests of graduate and fourth-year undergraduate members of College, with more than 400 members. The committee organises events throughout the year, and represents the views of its members to the College authorities. With the most cosmopolitan collection of junior members of any Oxbridge college, Trinity has a wide breadth of nationalities, cultures and academic specialities.
 
 To see and post photos from recent BA Society events and to post comments to the rest of the Society, please [join our Facebook group](https://www.facebook.com/groups/2204129196/).
 
