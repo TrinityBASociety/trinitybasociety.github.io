@@ -8,9 +8,9 @@ order: 4
 
 The BA Rooms are situated on the first floor of I Staircase, Great Court. The Junior Common Room, which graduates are also entitled to use, is just next door. You will need your University card to access both rooms.
 
-The BA Rooms are split over two levels. On the lower level is a common room, containing a selection of newspapers and magazines, a stereo system, a phone, networked PC, and a printer, as well as a recently refurbished kitchen. The kitchen contains a conventional oven, microwave, kettle, sandwich toaster, and coffee machine. Tea and coffee are available in the cupboard above the stove. Please do not remove anything from the kitchen, and do wash up, wipe down tables and surfaces, and generally clean up after use. Make sure the kitchen is left in a better state than you found it.
+The BA Rooms are split over two levels. On the lower level is a common room and a recently refurbished kitchen. The kitchen contains a conventional oven, microwave, kettle, and coffee machine. Tea and coffee are available in the cupboard above the stove. Please do not remove anything from the kitchen, and do wash up, wipe down tables and surfaces, and generally clean up after use. Make sure the kitchen is left in a better state than you found it.
 
-Upstairs from the common room is a television room, where you can watch network channels as well as satellite stations. There is also a VCR and DVD player. The space can be booked by BA Society members for movie nights, sports matches, or any of your television needs.
+Upstairs from the common room is a television room, which is currently being refurbished.
 
 To view availabilities for both rooms, click [here](http://www.google.com/calendar/embed?title=BA%20Rooms&src=ba.kitchen@googlemail.com&color=%23A32929&src=ba.television@googlemail.com&color=%23AB8B00&ctz=Europe/London). Television room bookings are in gold; kitchen bookings are in red.
 
