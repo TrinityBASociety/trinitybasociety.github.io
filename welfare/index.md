@@ -14,17 +14,17 @@ order: 6
 	</div>
 </div>
 
-Graduate life can be stressful and occasionally problems may arise which mean that you should seek help from others. There are people you can turn to.
+Graduate life can be stressful and occasionally problems may arise for which you want the help of others. There are several people and resources you can turn to for help and direction.
 
-A good first port-of-call in difficulty is your tutor, who is responsible for your general welfare in College. They all have a tutor's secretary, and will happily arrange an appointment. Tutors usually end up dealing with any matters relating to your academic studies.
+A good first port-of-call in difficulty is your tutor, who is responsible for your welfare in College. They all have a tutor's secretary, and will happily arrange an appointment. Tutors usually end up dealing with any matters relating to your academic studies, but can also advise you on your options in other matters too.
 
-The College Nurse is available for help with any medical problems, as well as offering a counselling service. The nurse can be found at the Health Centre in B Nevile's Court from 8:30-11 a.m. and from 12-2 p.m. on Monday to Friday during Full Term (during Term, the hours end at 1 p.m. instead of 2 p.m.). The nurse can also be contacted by phone at (3)38471 and [by email at surgery@trin.cam.ac.uk](mailto:surgery@trin.cam.ac.uk).
+The College Nurse is available for help with any medical problems and  can be found at the Health Centre in B Nevile's Court from 8:30-11 a.m. and from 12-2 p.m. on Monday to Friday during Full Term (during Term, the hours end at 1 p.m. instead of 2 p.m.). The nurse can also be contacted by phone at (3)38471 and [by email at surgery@trin.cam.ac.uk](mailto:surgery@trin.cam.ac.uk).
 
 The College also has a dedicated College Counsellor who is available to talk about personal or work-related problems. ([book appointments at counsellor@trin.cam.ac.uk](mailto:counsellor@trin.cam.ac.uk)). There is also a Mental Health Advisor who takes self-referrals ([book appointments at jb732@cam.ac.uk](mailto:jb732@cam.ac.uk)). And, the [College Chaplains](http://trinitycollegechapel.com/whos-who/) are always there too for confidential chats and support.
 
-If you would prefer to talk to another student, [Mark Burrell](mailto:ba.liaison@trin.cam.ac.uk) is the Liaison and Welfare Officer on the BA Society Committee, and he will do his best to help with any problems you may have.
+If you would prefer to talk to another student, [Mark Burrell](mailto:ba.liaison@trin.cam.ac.uk) is the Liaison and Welfare Care Officer on the BA Society Committee, and he will do his best to make sure you get the help you want or need. If you rather, you may also contact the Women's Officer, [Olivia Tidswell](mailto:ba.women@trin.cam.ac.uk). Any discussion you have with the Welfare Officers is completely confidential, unless you wish otherwise.
 
-The [University Counselling Service](http://www.counselling.cam.ac.uk/) is another source of support. They offer individual or group counselling and hold a number of workshops that are run throughout the year.
+The [University Counselling Service](http://www.counselling.cam.ac.uk/) is another source of support. They offer individual or group counselling and hold a number of workshops that are run throughout the year, however they only operate during term.
 
 The [GU](http://www.gradunion.cam.ac.uk/facilities/support/#studentsupport) and [CUSU](http://www.cusu.cam.ac.uk/welfare/) both have excellent welfare information on their websites and together they run the [Student Advice Service](mailto:advice@camstudentadvice.co.uk). The GU has a Welfare Officer who you can always [contact for support](mailto:welfare@gradunion.cam.ac.uk). The Welfare Library at the GU Lounge also has information on topics including alcohol and drugs, health problems, crime, pregnancy and much more.
 
@@ -36,15 +36,18 @@ There are many other organisations in Cambridge which can deal with more special
 ## Useful contacts
 
 | ------------------------------------------------------------------------------------------------------------------------ | :----------------------------: |
+| Porters Lodge (24 hour)                                                                                                  | (01223) 338400                 |
+| Non-emergency, urgent healthcare                                                                                         | 111                            |
 | [Cambridge Rape Crisis](http://www.cambridgerapecrisis.co.uk/) (24 hour answerphone)                                     | (01223) 245888                 |
 | [Victim Support](http://www.victimsupport.org/)                                                                          | 0845 30 30 900 / 0845 389 9523 |
-| Police (Parkside)                                                                                                        | (01223) 358966 999             |
+| Police (Parkside, non-emergency)                                                                                         | (01223) 358966                 |
 | [Panther Taxis](http://www.panthertaxis.co.uk/) (can request female driver)                                              | (01223) 715715                 |
 | Drinkline (National alcoholic helpline)                                                                                  | 0800 917 8282 (freephone)      |
 | [Alcoholics Anonymous](http://www.alcoholics-anonymous.org.uk/) (24 hour helpline)                                       | 0845 7697555                   |
 | The Bridge Project (Drugs advice centre)                                                                                 | (01223) 214614                 |
 | [beat](http://www.b-eat.co.uk/) (Eating disorders association)                                                           | 0845 634 1414 / 0845 634 7650  |
-| [The Laurels](http://www.sexualhealthcambs.nhs.uk/info_laurels.php) (Family Planning Clinic)                             | 08456 505152                   |
+| [The Lime Tree Clinic](http://www.icash.nhs.uk/where-to-go/lime-tree-clinic-cambridge) (Sexual Health Clinic)            | 0300 300 3030                  |
+| [The Laurels](http://www.sexualhealthcambs.nhs.uk/info_laurels.php) (Alternative Sexual Health/Family Planning Clinic)   | 08456 505152                   |
 | [Sexual Health Cambridgeshire](http://www.sexualhealthcambs.nhs.uk/)                                                     |                                |
 | [Sexual Health Advice Centre](http://www.cuh.org.uk/addenbrookes/services/clinical/shac/shac_index.html)                 | (01223) 217774                 |
 | [Addenbrooke's Hospital](http://www.addenbrookes.org.uk/)                                                                | (01223) 245151                 |
