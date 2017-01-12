@@ -24,7 +24,7 @@ We will be serving pre-drinks from 7:15 pm, with dinner starting at 8 pm except 
 The location of pre-drinks will usually be the OCR (Old Combination Room) and the Bar unless otherwise announced.
 
 ## Seating System
-We are currently testing a system where seats can be reserved for groups of six or more people through [this form](http://goo.gl/forms/I9mPbpOV6i).
+We are currently testing a system where seats can be reserved for groups of six or more people through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiMcROnSBz43v4OfU2zqv_4QHj0lvAyJARPNu_lDq_hBzFqg/viewform).
 Reservations should be submitted by 23.59 on the day preceding the formal.
 Reservations for more than 10 people require permission from the Dean according to the White Book, therefore these will only be considered if we receive a copy of this permission before the deadline.
 Requests are granted on a first come, first served basis.
