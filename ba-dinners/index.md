@@ -14,7 +14,7 @@ order: 3
 	</div>
 	<div class="6u 12u$(medium)">
 		<ul class="actions fit">
-			<li><a href="http://shib.upay.co.uk/upaychilli?entityID=https%3a%2f%2fshib.raven.cam.ac.uk%2fshibboleth" target="_blank" class="button special fit">Book tickets</a></li>
+			<li><a href="http://upaychilli.com/sso/shibsso.aspx/upaychilli?entityID=https%3a%2f%2fshib.raven.cam.ac.uk%2fshibboleth" target="_blank" class="button special fit">Book tickets</a></li>
 		</ul>
 	</div>
 </div>
