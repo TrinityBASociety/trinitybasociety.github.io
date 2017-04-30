@@ -20,6 +20,13 @@ The standing orders of the BA Society are available [here](/docs/standing_orders
 ## Committee minutes
 
 ### BA Committee 2016–2017
+* 27 March 2017
+* [27 February 2017](/docs/minutes/2017-02-27.pdf){:target="_blank"}
+* [21 January 2017](/docs/minutes/2017-01-21.pdf){:target="_blank"}
+* [11 December 2016](/docs/minutes/2016-12-11.pdf){:target="_blank"}
+* [10 November 2016](/docs/minutes/2016-11-10.pdf){:target="_blank"}
+* [11 October 2016](/docs/minutes/2016-10-11.pdf){:target="_blank"}
+* [19 August 2016](/docs/minutes/2016-08-19.pdf){:target="_blank"}
 * [13 July 2016](/docs/minutes/2016-07-13.pdf){:target="_blank"}
 * [21 June 2016](/docs/minutes/2016-06-21.pdf){:target="_blank"}
 * [06 June 2016](/docs/minutes/2016-06-06.pdf){:target="_blank"}
