@@ -19,6 +19,13 @@ The standing orders of the BA Society are available [here](/docs/standing_orders
 
 ## Committee minutes
 
+### BA Committee 2017–2018
+* [27 November 2017](/docs/minutes/2017-11-27.pdf){:target="_blank"}
+* [22 September 2017](/docs/minutes/2017-09-22.pdf){:target="_blank"}
+* [01 September 2017](/docs/minutes/2017-09-01.pdf){:target="_blank"}
+* [18 June 2017](/docs/minutes/2017-06-18.pdf){:target="_blank"}
+* [04 June 2017](/docs/minutes/2017-06-04.pdf){:target="_blank"}
+
 ### BA Committee 2016–2017
 * [AGM 30 April 2017](/docs/minutes/2017-04-30_AGM.pdf){:target="_blank"}
 * 27 March 2017
