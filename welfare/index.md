@@ -22,7 +22,7 @@ The College Nurse is available for help with any medical problems and  can be fo
 
 The College also has a dedicated College Counsellor who is available to talk about personal or work-related problems. ([book appointments at counsellor@trin.cam.ac.uk](mailto:counsellor@trin.cam.ac.uk)). There is also a Mental Health Advisor who takes self-referrals ([book appointments at jb732@cam.ac.uk](mailto:jb732@cam.ac.uk)). And, the [College Chaplains](http://trinitycollegechapel.com/whos-who/) are always there too for confidential chats and support.
 
-If you would prefer to talk to another student, [Annalise Higgins](mailto:ba.liaison@trin.cam.ac.uk) is the Welfare Officer on the BA Society Committee, and she will do her best to make sure you get the help you want or need. If you rather, you may also contact the Women's Officer, [Natalie Jones](mailto:ba.women@trin.cam.ac.uk). Any discussion you have with the Welfare Officers is completely confidential, unless you wish otherwise.
+If you would prefer to talk to another student, [Annalise Higgins](mailto:ba.welfare@trin.cam.ac.uk) is the Welfare Officer on the BA Society Committee, and she will do her best to make sure you get the help you want or need. If you rather, you may also contact the Women's Officer, [Natalie Jones](mailto:ba.women@trin.cam.ac.uk). Any discussion you have with the Welfare Officers is completely confidential, unless you wish otherwise.
 
 The [University Counselling Service](http://www.counselling.cam.ac.uk/) is another source of support. They offer individual or group counselling and hold a number of workshops that are run throughout the year, however they only operate during term.
 
