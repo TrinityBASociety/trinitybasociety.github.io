@@ -9,7 +9,7 @@ order: 3
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<ul class="actions fit">
-			<li><a href="/docs/2017-18/ba_menus_lent_2018.pdf" target="_blank" class="button special fit">Download Lent 2018 menus</a></li>
+			<li><a href="/docs/2017-18/ba_menus_easter_2018.pdf" target="_blank" class="button special fit">Download Easter 2018 menus</a></li>
 		</ul>
 	</div>
 	<div class="6u 12u$(medium)">
@@ -33,6 +33,6 @@ The total number of seats that can be reserved is ~100 (50% of all seats). If yo
 
 ## Guests
 We are very happy with you bringing guests to formal.
-However, keep in mind that as the host, you are responsibile for your guests and their behaviour.
+However, keep in mind that as the host, you are responsible for your guests and their behaviour.
 It is also your responsibility to make sure that, if they are under 18, they do not drink alcohol.
 Please note that children younger than 8 years may not attend formal dinners according to College regulations.
