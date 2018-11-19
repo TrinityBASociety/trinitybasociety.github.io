@@ -53,5 +53,5 @@ There are many other organisations in Cambridge which can deal with more special
 | University Dental Service                                                                                                | (01223) 332860                 |
 | [CUSU LGBT+](https://www.lgbt.cusu.cam.ac.uk/)                                                                           |                                |
 | [Linkline](http://www.linkline.org.uk/) "Someone to Listen" (7 p.m. - 7 a.m.)                                            | (01223) 367575                 |
-| [Samaritans](http://www.samaritans.org/) (10:30 a.m. - 10:00 p.m.)                                                       | (01223) 364455 08457 909090    |
+| [Samaritans](http://www.samaritans.org/) (10:30 a.m. - 10:00 p.m.)                                                       | (01223) 364455 / 08457 909090  |
 | [University Counselling Service](http://www.counselling.cam.ac.uk/)                                                      | (01223) (3)32865               |
