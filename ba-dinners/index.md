@@ -20,12 +20,12 @@ order: 3
 </div>
 
 Our weekly BA Dinners are an excellent way to relax after a long week in the lab or library, with some good food and good company.
-We will be serving pre-drinks from 7:15 pm, with dinner starting at 8 pm except the BA Feast, for which pre-drinks will be at 7pm and dinner at 7:30pm.
+We will be serving pre-drinks from 7:15 p.m., with dinner starting at 8 p.m. except the BA Feast, for which pre-drinks will be at 7 p.m. and dinner at 7:30 p.m..
 The location of pre-drinks will usually be the OCR (Old Combination Room) and the Bar unless otherwise announced.
 
 ## Seating System
 We are currently testing a system where seats can be reserved for groups of six or more people through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiMcROnSBz43v4OfU2zqv_4QHj0lvAyJARPNu_lDq_hBzFqg/viewform).
-Reservations should be submitted by 23.59 on the day preceding the formal.
+Reservations should be submitted by 11:59 p.m. on the day preceding the formal.
 Reservations for more than 10 people require permission from the Dean according to the White Book, therefore these will only be considered if we receive a copy of this permission before the deadline.
 Requests are granted on a first come, first served basis.
 
