@@ -20,6 +20,7 @@ The standing orders of the BA Society are available [here](/docs/standing_orders
 ## Committee minutes
 
 ### BA Committee 2018–2019
+* [2 April 2019](/docs/minutes/2019-04-02.pdf){:target="_blank"}
 * [4 March 2019](/docs/minutes/2019-03-04.pdf){:target="_blank"}
 * [3 December 2018](/docs/minutes/2018-12-03.pdf){:target="_blank"}
 * [22 November 2018 – Open Meeting](/docs/minutes/2018-11-22-open_meeting.pdf){:target="_blank"}
