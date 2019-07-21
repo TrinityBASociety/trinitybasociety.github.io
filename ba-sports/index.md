@@ -48,6 +48,6 @@ The BA Society owns a selection of sports equipment, which is stored in the Burr
 * Cricket balls
 * Croquet set (Main Site Porters Lodge)
 
-These can be borrowed by any Trinity BA and their guests. Badminton and squash courts are booked online. If your Raven account is associated with your department rather than Trinity, you may need to contact the TC Badminton Club secretary or myself to arrange addition to the approved student list. Croquet can be played on the South Paddock. The BA Croquet set (quite heavy) is stored at the Main Site Porters Lodge (Great Gate), and you will need to sign for it and return it after use.
+These can be borrowed by any Trinity BA and their guests. Badminton and squash courts are booked online. If your Raven account is associated with your department rather than Trinity, you may need to contact the TC Badminton Club secretary or myself to arrange addition to the approved student list. The BA Croquet set (quite heavy) is stored at the Main Site Porters Lodge (Great Gate), and you will need to sign for it and return it after use.
 
 If there is any problem with this equipment, rackets need restringing, etc, [email the BA Sports Rep](mailto:ba.sports@trin.cam.ac.uk). Also, suggestions of new equipment the Society could buy are very welcome!
