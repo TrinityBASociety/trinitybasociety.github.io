@@ -10,5 +10,4 @@ order: 1
 
 Each year, the BA Society compiles a Rough Guide for Freshers' Week to help you get the most out of starting in Cambridge.
 
-<iframe src="/docs/2019-20/rough_guide_2019.pdf" width="100%" height="500%"></iframe>
-
+<object data="/docs/2019-20/rough_guide_2019.pdf" width="1000" height="1000" type='application/pdf'</object>
