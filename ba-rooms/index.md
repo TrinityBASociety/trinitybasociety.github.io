@@ -3,7 +3,7 @@ layout: page
 title: BA Rooms
 subtitle:
 permalink: /ba-rooms/
-order: 4
+order: 5
 ---
 
 <div class="row">

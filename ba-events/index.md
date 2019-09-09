@@ -3,7 +3,7 @@ layout: page
 title: Events
 subtitle:
 permalink: /ba-events/
-order: 8
+order: 9
 ---
 
 ## Guests
