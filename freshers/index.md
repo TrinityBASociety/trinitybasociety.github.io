@@ -12,6 +12,6 @@ Each year, the BA Society, in collaboration with The College, holds Freshers' We
 
 ## Rough Guide
 
-Each year, the BA Society compiles a Rough Guide for Freshers' Week to help you get the most out of starting in Cambridge. You can view the rough guide below, or download it [here](/docs/2019-20/rough_guide_2019.pdf"){:target="_blank"}.
+Each year, the BA Society compiles a Rough Guide for Freshers' Week to help you get the most out of starting in Cambridge. You can view the rough guide below, or download it [here](/docs/2019-20/rough_guide_2019.pdf){:target="_blank"}.
 
 <iframe src="/docs/2019-20/rough_guide_2019.pdf" width="100%" height="1200em"></iframe>
