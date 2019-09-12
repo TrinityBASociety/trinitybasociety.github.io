@@ -9,7 +9,7 @@ order: 4
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<ul class="actions fit">
-			<li><a href="/docs/2018-19/ba_menus_summer_2019.pdf" target="_blank" class="button special fit">Download Summer 2019 menus</a></li>
+			<li><a href="/docs/2019-20/michaelmas_2019_menus.pdf" target="_blank" class="button special fit">Download Summer 2019 menus</a></li>
 		</ul>
 	</div>
 	<div class="6u 12u$(medium)">
