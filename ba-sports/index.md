@@ -3,7 +3,7 @@ layout: page
 title: BA Sports
 subtitle:
 permalink: /ba-sports/
-order: 7
+order: 6
 ---
 
 ## Field Club

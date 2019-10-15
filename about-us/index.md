@@ -3,7 +3,7 @@ layout: page
 title: About us
 subtitle:
 permalink: /about-us/
-order: 2
+order: 1
 ---
 
 The BA Society is a College-funded Society founded to further the interests of graduate and fourth-year undergraduate members of College, with more than 400 members. The committee organises events throughout the year, and represents the views of its members to the College authorities. With the most cosmopolitan collection of junior members of any Oxbridge college, Trinity has a wide breadth of nationalities, cultures and academic specialities.

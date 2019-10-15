@@ -3,7 +3,7 @@ layout: page
 title: Welfare
 subtitle:
 permalink: /welfare/
-order: 8
+order: 7
 ---
 
 <div class="row">
