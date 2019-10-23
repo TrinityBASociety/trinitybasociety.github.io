@@ -26,7 +26,7 @@ The gym is on two floors. The bottom floor contains two lifting racks and benche
 <li>
 <h3>Membership</h3>
 <p>
-Use of the gym is restricted to members. Membership costs £30 per year. In order to obtain membership, new users must undertake an Induction Session with a trainer. For more information on Membership and Induction please visit the [Cam Sports Performance Trinity gym website](http://camsportsperformance.com/trinity-college/).
+Use of the gym is restricted to members. Membership costs £30 per year. In order to obtain membership, new users must undertake an Induction Session with a trainer. For more information on Membership and Induction please visit the <a href="http://camsportsperformance.com/trinity-college/">Cam Sports Performance Trinity gym website</a>
 </p>
 <p>
 Spouses of students can become Associate Members. After attending the gym induction, the Accommodation Office will issue a gym membership card. The fee will be charged directly to the student's college account.
@@ -54,7 +54,7 @@ Entry to the gym is by a College swipe card which will be programmed after your 
 <li>
 <h3>Comments and Suggestions</h3>
 <p>
-Any comments or suggestions about improvements that can be made to the gym are very welcome. Just [email the BA Sports Rep](mailto:ba.sports@trin.cam.ac.uk)!
+Any comments or suggestions about improvements that can be made to the gym are very welcome. Just <a href="mailto:ba.sports@trin.cam.ac.uk">email the BA Sports Rep</a>
 </p>
 </li>
 </ul>
