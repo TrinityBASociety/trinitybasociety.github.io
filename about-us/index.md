@@ -10,10 +10,6 @@ The BA Society is a College-funded Society founded to further the interests of g
 
 To see and post photos from recent BA Society events and to post comments to the rest of the Society, please [join our Facebook group](https://www.facebook.com/groups/2204129196/).
 
-## Freshers' Week
-
-Our rough guide for Freshers' Week is now available, to help you get the most out of starting in Cambridge. You can download it [here](/docs/2019-20/rough_guide_2019.pdf){:target="_blank"}.
-
 ## Constitution
 The constitution of the BA Society is available [here](/docs/constitution.pdf){:target="_blank"}.
 
