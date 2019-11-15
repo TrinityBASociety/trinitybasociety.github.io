@@ -20,6 +20,7 @@ The standing orders of the BA Society are available [here](/docs/standing_orders
 
 ### BA Committee 2019-2020
 
+* [13 November 2019 - Open Meeting](/docs/minutes/2019-11-13.pdf){:target="_blank"}
 * [13 November 2019 - First Year Representative Hustings](/docs/minutes/FYR_hustings_minutes.pdf){:target="_blank"}
 * [23 October 2019](/docs/minutes/2019-10-23.pdf){:target="_blank"}
 * [25 September 2019](/docs/minutes/2019-09-25.pdf){:target="_blank"}
