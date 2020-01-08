@@ -9,7 +9,7 @@ order: 3
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<ul class="actions fit">
-			<li><a href="/docs/2019-20/michaelmas_2019_menus.pdf" target="_blank" class="button special fit">Download Michaelmas 2019 menus</a></li>
+			<li><a href="/docs/2019-20/lent_2019_menus.pdf" target="_blank" class="button special fit">Download Michaelmas 2019 menus</a></li>
 		</ul>
 	</div>
 	<div class="6u 12u$(medium)">
