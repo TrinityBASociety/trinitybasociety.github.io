@@ -1,2 +1,4 @@
 AuthType Ucam-WebAuth
-      Require valid-user
+AuthGroupFile "/groups.txt"
+Require group trinity-postgrads
+
