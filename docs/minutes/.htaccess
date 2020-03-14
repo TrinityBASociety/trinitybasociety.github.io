@@ -1,4 +1,3 @@
 AuthType Ucam-WebAuth
-AuthGroupFile "/groups.txt"
-Require group trinity-postgrads
-
+AuthGroupFile "$HOME/basociety/groups.txt"
+	Require group trinity-postgrads
