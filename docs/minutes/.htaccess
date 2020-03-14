@@ -1,3 +1,3 @@
 AuthType Ucam-WebAuth
-AuthGroupFile /groups
+AuthGroupFile "/home/nw387/basociety/groups"
 Require group trinity
