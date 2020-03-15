@@ -1,3 +1,2 @@
 AuthType Ucam-WebAuth
-AuthGroupFile $HOME/basociety/groups
-Require group trinity
+Require LookupUserInGroup 002874
