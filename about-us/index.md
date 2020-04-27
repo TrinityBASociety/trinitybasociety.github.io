@@ -20,6 +20,7 @@ The standing orders of the BA Society are available [here](/docs/standing_orders
 
 ### BA Committee 2019-2020
 
+* [11 March 2020](/docs/minutes/2020-03-11.pdf){:target=_"blank"}
 * [12 February 2020](/docs/minutes/2020-02-12.pdf){:target="_blank"}
 * [22 January 2020](/docs/minutes/2020-01-22.pdf){:target="_blank"}
 * [08 January 2020](/docs/minutes/2020-01-08.pdf){:target="_blank"}
@@ -34,6 +35,7 @@ The standing orders of the BA Society are available [here](/docs/standing_orders
 * [26 May 2019](/docs/minutes/2019-05-26.pdf){:target="_blank"}
 
 ### BA Committee 2018–2019
+* [30 April 2019 - AGM](/docs/minutes/2019-04-30-agm.pdf){:target="_blank"}
 * [2 April 2019](/docs/minutes/2019-04-02.pdf){:target="_blank"}
 * [4 March 2019](/docs/minutes/2019-03-04.pdf){:target="_blank"}
 * [3 December 2018](/docs/minutes/2018-12-03.pdf){:target="_blank"}
