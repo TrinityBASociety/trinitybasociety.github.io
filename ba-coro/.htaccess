@@ -1,3 +1,3 @@
 AuthType Ucam-WebAuth
 AuthLDAPUrl ldap://ldap.lookup.cam.ac.uk/ou=people,o=University%20of%20Cambridge,dc=cam,dc=ac,dc=uk
-Require ldap-attribute groupID=002874
+Require ldap-attribute groupName=trinug-members groupName=trinpg-members
