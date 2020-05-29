@@ -18,6 +18,10 @@ The standing orders of the BA Society are available [here](/docs/standing_orders
 
 ## Committee minutes
 
+### BA Committee 2020-2021
+
+* [22 May 2020](/docs/minutes/2020-05-22.pdf){:target=_"blank"}
+
 ### BA Committee 2019-2020
 
 * [27 April 2020](/docs/minutes/2020-04-27_agm.pdf){:target=_"blank"}
