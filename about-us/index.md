@@ -16,6 +16,9 @@ The constitution of the BA Society is available [here](/docs/constitution.pdf){:
 ## Standing orders
 The standing orders of the BA Society are available [here](/docs/standing_orders.pdf){:target="_blank"}.
 
+## Privacy Policy
+The privacy policy of the BA Society is available [here](/docs/20200602_BA_soc_priv_pol.pdf){:target="_blank"}.
+
 ## Committee minutes
 
 ### BA Committee 2020-2021
