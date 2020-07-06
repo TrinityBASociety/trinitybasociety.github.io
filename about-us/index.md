@@ -27,7 +27,6 @@ The privacy policy of the BA Society is available [here](/docs/20200602_BA_soc_p
 
 ### BA Committee 2019-2020
 
-* placeholder
 * [27 April 2020](/docs/minutes/2020-04-27_agm.pdf){:target=_"blank"}
 * [11 March 2020](/docs/minutes/2020-03-11.pdf){:target=_"blank"}
 * [12 February 2020](/docs/minutes/2020-02-12.pdf){:target="_blank"}
