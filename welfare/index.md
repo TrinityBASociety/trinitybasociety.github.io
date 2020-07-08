@@ -9,12 +9,12 @@ order: 7
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<ul class="actions fit">
-			<li><a href="https://forms.gle/ajZo5oEEu8V7341PA" target="_blank" class="button special fit">Sexual health Supplies Request Form</a></li>
+			<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=4Kd2NkFfFk2b51fqbRWgK6CmBfFmLLtAqzZAd9Kkg2xUMlI0UE1TN0RaRjU2NzZVVEVDUUQzTElYSy4u" target="_blank" class="button special fit">Sexual health Supplies Request Form</a></li>
 		</ul>
 	</div>
 	<div class="6u 12u$(medium)">
 		<ul class="actions fit">
-			<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiswY8pGvxV5fpcH2LrutcARQL0iX_R9zxXcDI5u-_w1VgJw/viewform" target="_blank" class="button special fit">Menstrual Cup Request Form</a></li>
+			<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=4Kd2NkFfFk2b51fqbRWgK6CmBfFmLLtAqzZAd9Kkg2xUOVNJWVpWT1M2SVQ0VURMU0dFV0pLQ0JQNS4u" target="_blank" class="button special fit">Menstrual Cup Request Form</a></li>
 		</ul>
 	</div>
 </div>
