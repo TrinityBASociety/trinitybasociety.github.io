@@ -6,7 +6,7 @@ permalink: /ba-rooms/
 order: 4
 ---
 
-##Unfortunately, BA rooms will not be available for the academic year 2020-2021 until further notice. 
+## Unfortunately, BA rooms will not be available for the academic year 2020-2021 until further notice. 
 
 The BA Rooms are situated on the first floor of I Staircase, Great Court. The Junior Common Room, which graduates are also entitled to use, is just next door. You will need your University card to access both rooms.
 
