@@ -6,6 +6,8 @@ permalink: /ba-dinners/
 order: 3
 ---
 
+## The catering department is still sorting out how to arrange BA dinners for the academic year 2020-2021, if possible. Please wait for further notice, thanks.
+
 <div class="row">
 	<div class="6u 12u$(medium)">
 		<ul class="actions fit">
