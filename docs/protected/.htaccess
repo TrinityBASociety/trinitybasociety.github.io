@@ -1,3 +1,5 @@
 AuthType Ucam-WebAuth
-AuthLDAPUrl ldap://ldap.lookup.cam.ac.uk/ou=people,o=University%20of%20Cambridge,dc=cam,dc=ac,dc=uk
-Require ldap-attribute groupName=trinug-members groupName=trinpg-members
+Require valid-user
+# XXX: Restore once students are added to the right groups in Loookup
+#AuthLDAPUrl ldap://ldap.lookup.cam.ac.uk/ou=people,o=University%20of%20Cambridge,dc=cam,dc=ac,dc=uk
+#Require ldap-attribute groupName=trinug-members groupName=trinpg-members
