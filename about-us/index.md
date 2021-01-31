@@ -11,7 +11,7 @@ The BA Society is a College-funded Society founded to further the interests of g
 To see and post photos from recent BA Society events and to post comments to the rest of the Society, please [join our Facebook group](https://www.facebook.com/groups/2204129196/).
 
 ## Constitution
-The constitution of the BA Society is available [here](/docs/constitution.pdf){:target="_blank"}.
+The constitution of the BA Society is available [here](/docs/constitution-2021.pdf){:target="_blank"}.
 
 ## Standing orders
 The standing orders of the BA Society are available [here](/docs/standing_orders.pdf){:target="_blank"}.
@@ -21,7 +21,16 @@ The privacy policy of the BA Society is available [here](/docs/20200602_BA_soc_p
 
 ## Committee minutes
 
-### BA Committee 2020-2020
+### BA Committee 2020-2021
+* [22 Jan 2021](/docs/minutes/2021-01-22.pdf){:target="_blank"}
+* [13 Jan 2021](/docs/minutes/2021-01-13.pdf){:target="_blank"}
+* [25 Nov 2020](/docs/minutes/2020-11-25.pdf){:target="_blank"}
+* [11 Nov 2020](/docs/minutes/2020-11-11.pdf){:target="_blank"}
+* [28 Oct 2020](/docs/minutes/2020-10-28.pdf){:target="_blank"}
+* [19 Oct 2020](/docs/minutes/2020-10-19.pdf){:target="_blank"}
+* [12 Oct 2020](/docs/minutes/2020-10-12.pdf){:target="_blank"}
+* [28 Sep 2020](/docs/minutes/2020-09-28.pdf){:target="_blank"}
+* [21 Sep 2020](/docs/minutes/2020-09-21.pdf){:target="_blank"}
 * [18 Sep 2020 Open meeting](/docs/minutes/2020-09-18-open-meeting.pdf){:target="_blank"}
 * [14 Sep 2020](/docs/minutes/2020-09-14.pdf){:target="_blank"}
 * [31 Aug 2020](/docs/minutes/2020-08-31.pdf){:target="_blank"}
