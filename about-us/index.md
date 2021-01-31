@@ -11,7 +11,7 @@ The BA Society is a College-funded Society founded to further the interests of g
 To see and post photos from recent BA Society events and to post comments to the rest of the Society, please [join our Facebook group](https://www.facebook.com/groups/2204129196/).
 
 ## Constitution
-The constitution of the BA Society is available [here](/docs/constitution-2021.pdf){:target="_blank"}.
+The constitution of the BA Society is available [here](/docs/protected/constitution-2021.pdf){:target="_blank"}.
 
 ## Standing orders
 The standing orders of the BA Society are available [here](/docs/standing_orders.pdf){:target="_blank"}.
