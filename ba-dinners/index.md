@@ -6,7 +6,9 @@ permalink: /ba-dinners/
 order: 3
 ---
 
-## The catering department is still sorting out how to arrange BA dinners for the academic year 2020-2021, if possible. Please wait for further notice, thanks.
+## COVID updates
+
+The severy is currently open for lunch and dinner at hall. Please refer to [college website](https://mytrin.trin.cam.ac.uk/hospitality-covid19/servery) for weekly menus. Our routine Friday BA formals are not happening at the moment, please wait for further notice.
 
 <div class="row">
 	<div class="6u 12u$(medium)">
