@@ -22,7 +22,7 @@ The privacy policy of the BA Society is available [here](/docs/20200602_BA_soc_p
 ## Committee minutes
 
 ### BA Committee 2020-2021
-* [22 Jan 2021](/docs/minutes/2021-01-22.pdf){:target="_blank"}
+* [22 Jan 2021 Open meeting](/docs/minutes/2021-01-22.pdf){:target="_blank"}
 * [13 Jan 2021](/docs/minutes/2021-01-13.pdf){:target="_blank"}
 * [25 Nov 2020](/docs/minutes/2020-11-25.pdf){:target="_blank"}
 * [11 Nov 2020](/docs/minutes/2020-11-11.pdf){:target="_blank"}
