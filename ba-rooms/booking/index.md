@@ -19,7 +19,7 @@ The BA Rooms may be booked using the form below under the following rules:
 * Masks must be worn unless eating/drinking.
 * No shouting, singing or exercise is to take place.
 
-{% unless site.data.private.squarespace_owner == empty %}
+{% if site.data.private.squarespace_owner %}
 <iframe src="https://app.squarespacescheduling.com/schedule.php?owner={{ site.data.private.squarespace_owner }}" title="BA Rooms Booking" width="100%" height="800" frameBorder="0"></iframe>
 <script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
-{% endunless %}
+{% endif %}
