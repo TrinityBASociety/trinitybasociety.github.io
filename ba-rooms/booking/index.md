@@ -5,7 +5,7 @@ subtitle:
 permalink: /ba-rooms/booking/
 ---
 
-The College Council has agreed to allow a trial of indoor mixing between households in the BA Rooms to see what impact it has on the COVID rates in College. This means you can now have dinner parties, movie nights and anything else you can think of indoors with other Trinity College members from different households. You'll have exclusive use of both the kitchen/lounge area and the TV room upstairs for the duration of your booking
+The College Council has agreed to allow a trial of indoor mixing between households in the BA Rooms to see what impact it has on the COVID rates in College. This means you can now have dinner parties, movie nights and anything else you can think of indoors with other Trinity College members from different households. You'll have exclusive use of both the kitchen/lounge area and the TV room upstairs for the duration of your booking.
 
 There are rules that need to be followed so that we can keep access to the BA Rooms and if you choose not to follow them your access to the rooms can be revoked at the request of the Dean, Porters or the BA Committee. The Porters will have access to all the booking information and will do spot checks to make sure the rules are being followed.
 
