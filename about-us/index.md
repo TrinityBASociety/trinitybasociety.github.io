@@ -14,7 +14,7 @@ To see and post photos from recent BA Society events and to post comments to the
 The constitution of the BA Society is available [here](/docs/protected/constitution-2021.pdf){:target="_blank"}.
 
 ## Standing orders
-The standing orders of the BA Society are available [here](/docs/standing_orders.pdf){:target="_blank"}.
+The standing orders of the BA Society are available [here](/docs/Standing_Orders-3.pdf){:target="_blank"}.
 
 ## Privacy Policy
 The privacy policy of the BA Society is available [here](/docs/20200602_BA_soc_priv_pol.pdf){:target="_blank"}.
