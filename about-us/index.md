@@ -25,6 +25,7 @@ The privacy policy of the BA Society is available [here](/docs/20200602_BA_soc_p
 * [12 May 2021](/docs/minutes/2021-05-12.pdf){:target="_blank"}
 * [10 Apr 2021](/docs/minutes/2021-04-10.pdf){:target="_blank"}
 * [20 Mar 2021](/docs/minutes/2021-03-20.pdf){:target="_blank"}
+* [16 Mar 2021 Open meeting](/docs/minutes/2021-03-16_open_meeting.pdf){:target="_blank"}
 * [03 Mar 2021](/docs/minutes/2021-03-03.pdf){:target="_blank"}
 * [03 Feb 2021](/docs/minutes/2021-02-03.pdf){:target="_blank"}
 * [22 Jan 2021 Open meeting](/docs/minutes/2021-01-22.pdf){:target="_blank"}
