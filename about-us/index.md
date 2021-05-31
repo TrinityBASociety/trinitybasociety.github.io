@@ -23,6 +23,7 @@ The privacy policy of the BA Society is available [here](/docs/20200602_BA_soc_p
 
 ### BA Committee 2020-2021
 * [12 May 2021](/docs/minutes/2021-05-12.pdf){:target="_blank"}
+* [28 Apr 2021 AGM](/docs/minutes/2021-04-28_AGM.pdf){:target="_blank"}
 * [10 Apr 2021](/docs/minutes/2021-04-10.pdf){:target="_blank"}
 * [20 Mar 2021](/docs/minutes/2021-03-20.pdf){:target="_blank"}
 * [16 Mar 2021 Open meeting](/docs/minutes/2021-03-16_open_meeting.pdf){:target="_blank"}
