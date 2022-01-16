@@ -16,7 +16,7 @@ If we have more sign-ups than places, we will do a ballot, in which we prioritis
 
 ## Cancellation
 
-After the sign-up has closed, we will notify you as soon as possible if you got a place. Then, you will have one full day (24 hours) to decide if you (and your guest) want to accept the place or if you want to drop out free of charge. By accepting the place you are confirming that the details you signed up with (e.g. delivery address) are correct and if not you will notify the event host within this 24 hour period. If you (or your guest) drop-out later with at least 24 hours notice before the event and there is no one on the waiting list, you will still get charged the subsidised price. If you (or your guest) do not show up to the event without giving any notice, or you give notice and there is less than 24 hours to the event start time, you will be charged the full (not subsidised) price.
+After the sign-up has closed, we will notify you as soon as possible if you got a place. Then, you will have two full days (48 hours) to decide if you (and your guest) want to accept the place or if you want to drop out free of charge. By accepting the place you are confirming that the details you signed up with (e.g. delivery address) are correct and if not you will notify the event host within this 48 hour period. If you (or your guest) drop-out later with at least 48 hours notice before the event and there is no one on the waiting list, you will still get charged the subsidised price. If you (or your guest) do not show up to the event without giving any notice, or you give notice and there is less than 48 hours to the event start time, you will be charged the full (not subsidised) price.
 
 ## List of participants
 
